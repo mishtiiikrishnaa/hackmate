@@ -1,0 +1,8 @@
+{
+  "name": "Remix: HackMate",
+  "description": "A college-focused hackathon networking and team formation platform that helps students find teammates, discover hackathons, build profiles, and shape teams within verified college communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
